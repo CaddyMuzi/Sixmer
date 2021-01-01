@@ -1,4 +1,5 @@
 Sixmer is a single/double-player number guessing game created by Jon Lee. The player or players will attempt to guess a six-figure number with unique digits in as few tries as possible. 
+To Download: Download Sixmer.py file and run locally inside terminal.
 Contributing: Please contact original author if you wish to contribute to the code.
 Attachments: If you wish to keep track of your played games, download the attached log.xlsx file.
 Built With: Anaconda
