@@ -1,5 +1,5 @@
 # Software Title: Sixmer
-# Version: V0.1.0
+# Version: V0.2.0
 # Release Date: 12/25/2020
 # Author: Jonathan Lee (jon@muzi.com)
 # License: GPL
