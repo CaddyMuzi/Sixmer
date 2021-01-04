@@ -16,3 +16,6 @@ Acknowledgements: Green Caddy team @caddymuzi
 
 Contact: jon@muzi.com
 
+Website: https://www.sixmer.com
+
+Follow us at: https://twitter.com/sixmergame
