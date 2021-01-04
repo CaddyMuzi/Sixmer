@@ -8,13 +8,13 @@ Attachments: If you wish to keep track of your played games, download the attach
 
 Built With: Anaconda
 
-Developer: Jon Lee @jonlee2004
+Developer: Jon Lee 
 
 License: This code was published under the GPL Licensce
 
 Acknowledgements: Green Caddy team @caddymuzi
 
-Contact: jon@muzi.com
+Contact: jon@muzi.com or https://twitter.com/jonlee2004
 
 Website: https://www.sixmer.com
 
